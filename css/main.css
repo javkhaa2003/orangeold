@@ -1,0 +1,140 @@
+body{
+
+
+  margin: 0;
+
+}
+ul{
+  list-style-type: none;
+
+}
+
+nav{
+  padding-top: 20px;
+
+  color: white;
+  background-color: #FF7000;
+  height: 70px;
+
+}
+nav li{
+
+  display: inline;
+  padding-left:60px;
+  float: left;
+}
+input{
+  font-size: 40px;
+  width:400px;
+  height: 40px;
+  position: absolute;left: 850px;
+}
+ul li{
+  font-size: 10px;
+  display: inline;
+  font-style:none;
+}
+span{
+  font-style: bold;
+  font-size: 30px;
+}
+
+
+}
+ p{
+   color: #FF6347;
+  position:relative;
+  left: 540px;
+  bottom: 300px;
+  font-size: 70px;
+  position: relative;
+
+}
+
+
+span{
+  color: #00FFFF;
+}
+div{
+  position: absolute;
+  left: 300px;
+  top:190px;
+font-size: 30px;
+
+}
+
+.button one{
+  position: relative;
+  bottom: 150px;
+  left: 700px;
+  background-color: #40E0D0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button{
+  position: relative;
+  bottom: 150px;
+  left: 700px;
+  background-color: #40E0D0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+  background-color: #FF7000;
+}
+
+
+#footer {
+
+    background:#40E0d0;
+    clear: both;
+    height: 100px;
+    margin-top: -100px;
+    padding-top: 0;
+    position: relative;
+    width: 500%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #FF6347;
+}
+
+.active {
+    background-color: #FF6347;
+}
+
+}
